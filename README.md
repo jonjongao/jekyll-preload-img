@@ -8,7 +8,7 @@ But you can still try it :p
 # Usage
 Just add a div(just one!) which class is "preload-img"
 
-i.e.: <div class="preload-img"></div>
+i.e.: `<div class="preload-img"></div>`
 
 And it's done
 
