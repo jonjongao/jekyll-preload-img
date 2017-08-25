@@ -1,4 +1,4 @@
-# css3-preload-img
+# jekyll-preload-img
 
 ![css3-preload-img](http://i.imgur.com/2EYiDQhl.jpg)
 
